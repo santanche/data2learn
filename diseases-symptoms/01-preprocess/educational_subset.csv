@@ -1,0 +1,32 @@
+disease,symptom,importance
+pneumonia,fever,0.208
+pneumonia,coughing,0.402
+pneumonia,shortness of breath,0.156
+migraine,headache,0.384
+migraine,seizures,0.017
+migraine,depression,0.026
+migraine,sensitivity to light,0.223
+migraine,stiffness,0.013
+heart attack,depression,0.02
+heart attack,shortness of breath,0.041
+appendicitis,fever,0.096
+appendicitis,pain during urination,0.022
+anaphylaxis,seizures,0.02
+anaphylaxis,shortness of breath,0.099
+anaphylaxis,swelling,0.154
+major depression,headache,0.008
+major depression,seizures,0.026
+major depression,depression,0.416
+major depression,pain during urination,0.009
+stroke,headache,0.076
+stroke,seizures,0.044
+urinary tract infection,fever,0.071
+urinary tract infection,pain during urination,0.146
+gout,fever,0.011
+gout,swelling,0.246
+meningitis,fever,0.34
+meningitis,headache,0.45
+meningitis,coughing,0.035
+meningitis,seizures,0.033
+meningitis,sensitivity to light,0.142
+meningitis,stiffness,0.155
