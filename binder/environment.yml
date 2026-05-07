@@ -2,6 +2,6 @@ name: beakerx-binder
 channels:
   - conda-forge
 dependencies:
-  - python=3.10
-  - notebook
+  - python=3.9
+  - notebook<7
   - beakerx
