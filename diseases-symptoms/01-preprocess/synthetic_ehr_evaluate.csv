@@ -1,0 +1,1085 @@
+patient_id,ehr_id,disease,symptom
+P1018,EHR10000,anaphylaxis,swelling
+P1018,EHR10000,anaphylaxis,shortness of breath
+P1018,EHR10000,anaphylaxis,seizures
+P1038,EHR10001,anaphylaxis,swelling
+P1038,EHR10001,anaphylaxis,shortness of breath
+P1038,EHR10001,anaphylaxis,seizures
+P1054,EHR10002,anaphylaxis,swelling
+P1054,EHR10002,anaphylaxis,shortness of breath
+P1054,EHR10002,anaphylaxis,seizures
+P1033,EHR10003,anaphylaxis,shortness of breath
+P1033,EHR10003,anaphylaxis,seizures
+P1033,EHR10003,anaphylaxis,swelling
+P1012,EHR10004,anaphylaxis,swelling
+P1012,EHR10004,anaphylaxis,shortness of breath
+P1060,EHR10005,anaphylaxis,swelling
+P1060,EHR10005,anaphylaxis,shortness of breath
+P1016,EHR10006,anaphylaxis,swelling
+P1016,EHR10006,anaphylaxis,shortness of breath
+P1016,EHR10006,anaphylaxis,seizures
+P1004,EHR10007,anaphylaxis,swelling
+P1004,EHR10007,anaphylaxis,shortness of breath
+P1004,EHR10007,anaphylaxis,seizures
+P1046,EHR10008,anaphylaxis,shortness of breath
+P1072,EHR10009,anaphylaxis,shortness of breath
+P1072,EHR10009,anaphylaxis,swelling
+P1021,EHR10010,anaphylaxis,swelling
+P1009,EHR10011,anaphylaxis,shortness of breath
+P1009,EHR10011,anaphylaxis,swelling
+P1024,EHR10012,anaphylaxis,swelling
+P1024,EHR10012,anaphylaxis,seizures
+P1024,EHR10012,anaphylaxis,shortness of breath
+P1065,EHR10013,anaphylaxis,shortness of breath
+P1062,EHR10014,anaphylaxis,swelling
+P1062,EHR10014,anaphylaxis,shortness of breath
+P1062,EHR10014,anaphylaxis,seizures
+P1063,EHR10015,anaphylaxis,swelling
+P1070,EHR10016,anaphylaxis,seizures
+P1052,EHR10017,anaphylaxis,swelling
+P1052,EHR10017,anaphylaxis,shortness of breath
+P1036,EHR10018,anaphylaxis,swelling
+P1036,EHR10018,anaphylaxis,shortness of breath
+P1036,EHR10018,anaphylaxis,seizures
+P1005,EHR10019,anaphylaxis,shortness of breath
+P1005,EHR10019,anaphylaxis,seizures
+P1039,EHR10020,anaphylaxis,swelling
+P1039,EHR10020,anaphylaxis,shortness of breath
+P1062,EHR10021,anaphylaxis,swelling
+P1062,EHR10021,anaphylaxis,shortness of breath
+P1062,EHR10021,anaphylaxis,seizures
+P1026,EHR10022,anaphylaxis,swelling
+P1026,EHR10022,anaphylaxis,shortness of breath
+P1026,EHR10022,anaphylaxis,seizures
+P1047,EHR10023,anaphylaxis,shortness of breath
+P1047,EHR10023,anaphylaxis,swelling
+P1024,EHR10024,anaphylaxis,swelling
+P1024,EHR10024,anaphylaxis,shortness of breath
+P1016,EHR10025,anaphylaxis,swelling
+P1038,EHR10026,anaphylaxis,shortness of breath
+P1043,EHR10027,anaphylaxis,swelling
+P1043,EHR10027,anaphylaxis,shortness of breath
+P1043,EHR10027,anaphylaxis,seizures
+P1044,EHR10028,anaphylaxis,swelling
+P1044,EHR10028,anaphylaxis,shortness of breath
+P1044,EHR10028,anaphylaxis,seizures
+P1003,EHR10029,anaphylaxis,shortness of breath
+P1011,EHR10030,anaphylaxis,swelling
+P1011,EHR10030,anaphylaxis,shortness of breath
+P1072,EHR10031,anaphylaxis,swelling
+P1072,EHR10031,anaphylaxis,shortness of breath
+P1072,EHR10031,anaphylaxis,seizures
+P1048,EHR10032,anaphylaxis,shortness of breath
+P1048,EHR10032,anaphylaxis,swelling
+P1048,EHR10032,anaphylaxis,seizures
+P1049,EHR10033,anaphylaxis,swelling
+P1049,EHR10033,anaphylaxis,shortness of breath
+P1049,EHR10033,anaphylaxis,seizures
+P1035,EHR10034,anaphylaxis,shortness of breath
+P1035,EHR10034,anaphylaxis,swelling
+P1035,EHR10034,anaphylaxis,seizures
+P1066,EHR10035,anaphylaxis,swelling
+P1066,EHR10035,anaphylaxis,shortness of breath
+P1066,EHR10035,anaphylaxis,seizures
+P1034,EHR10036,anaphylaxis,swelling
+P1012,EHR10037,anaphylaxis,shortness of breath
+P1002,EHR10038,anaphylaxis,shortness of breath
+P1002,EHR10038,anaphylaxis,swelling
+P1035,EHR10039,anaphylaxis,shortness of breath
+P1035,EHR10039,anaphylaxis,seizures
+P1035,EHR10039,anaphylaxis,swelling
+P1071,EHR10040,anaphylaxis,swelling
+P1058,EHR10041,anaphylaxis,swelling
+P1058,EHR10041,anaphylaxis,shortness of breath
+P1058,EHR10041,anaphylaxis,seizures
+P1032,EHR10042,anaphylaxis,swelling
+P1032,EHR10042,anaphylaxis,shortness of breath
+P1032,EHR10042,anaphylaxis,seizures
+P1004,EHR10043,anaphylaxis,swelling
+P1006,EHR10044,anaphylaxis,seizures
+P1006,EHR10044,anaphylaxis,swelling
+P1006,EHR10044,anaphylaxis,shortness of breath
+P1043,EHR10045,anaphylaxis,seizures
+P1043,EHR10045,anaphylaxis,swelling
+P1010,EHR10046,anaphylaxis,seizures
+P1010,EHR10046,anaphylaxis,shortness of breath
+P1031,EHR10047,anaphylaxis,swelling
+P1031,EHR10047,anaphylaxis,seizures
+P1003,EHR10048,anaphylaxis,shortness of breath
+P1003,EHR10048,anaphylaxis,swelling
+P1003,EHR10048,anaphylaxis,seizures
+P1065,EHR10049,anaphylaxis,swelling
+P1022,EHR10050,anaphylaxis,swelling
+P1060,EHR10051,anaphylaxis,shortness of breath
+P1060,EHR10051,anaphylaxis,swelling
+P1072,EHR10052,anaphylaxis,swelling
+P1072,EHR10052,anaphylaxis,seizures
+P1075,EHR10053,anaphylaxis,swelling
+P1075,EHR10053,anaphylaxis,shortness of breath
+P1001,EHR10054,anaphylaxis,swelling
+P1002,EHR10055,anaphylaxis,swelling
+P1052,EHR10056,anaphylaxis,shortness of breath
+P1011,EHR10057,anaphylaxis,swelling
+P1011,EHR10057,anaphylaxis,shortness of breath
+P1028,EHR10058,anaphylaxis,shortness of breath
+P1028,EHR10058,anaphylaxis,swelling
+P1028,EHR10058,anaphylaxis,seizures
+P1060,EHR10059,anaphylaxis,swelling
+P1060,EHR10059,anaphylaxis,shortness of breath
+P1060,EHR10059,anaphylaxis,seizures
+P1062,EHR10060,appendicitis,pain during urination
+P1073,EHR10061,appendicitis,fever
+P1073,EHR10061,appendicitis,pain during urination
+P1042,EHR10062,appendicitis,fever
+P1042,EHR10062,appendicitis,pain during urination
+P1060,EHR10063,appendicitis,fever
+P1060,EHR10063,appendicitis,pain during urination
+P1065,EHR10064,appendicitis,fever
+P1065,EHR10065,appendicitis,pain during urination
+P1041,EHR10066,appendicitis,fever
+P1041,EHR10066,appendicitis,pain during urination
+P1045,EHR10067,appendicitis,fever
+P1051,EHR10068,appendicitis,pain during urination
+P1051,EHR10068,appendicitis,fever
+P1064,EHR10069,appendicitis,pain during urination
+P1064,EHR10069,appendicitis,fever
+P1031,EHR10070,appendicitis,fever
+P1031,EHR10070,appendicitis,pain during urination
+P1023,EHR10071,appendicitis,fever
+P1023,EHR10071,appendicitis,pain during urination
+P1063,EHR10072,appendicitis,fever
+P1063,EHR10072,appendicitis,pain during urination
+P1007,EHR10073,appendicitis,fever
+P1016,EHR10074,appendicitis,pain during urination
+P1036,EHR10075,appendicitis,fever
+P1075,EHR10076,appendicitis,fever
+P1020,EHR10077,appendicitis,pain during urination
+P1020,EHR10077,appendicitis,fever
+P1010,EHR10078,appendicitis,pain during urination
+P1010,EHR10078,appendicitis,fever
+P1011,EHR10079,appendicitis,fever
+P1028,EHR10080,appendicitis,fever
+P1028,EHR10080,appendicitis,pain during urination
+P1032,EHR10081,appendicitis,fever
+P1025,EHR10082,appendicitis,fever
+P1025,EHR10082,appendicitis,pain during urination
+P1034,EHR10083,appendicitis,fever
+P1034,EHR10083,appendicitis,pain during urination
+P1071,EHR10084,appendicitis,fever
+P1025,EHR10085,appendicitis,fever
+P1056,EHR10086,appendicitis,fever
+P1056,EHR10086,appendicitis,pain during urination
+P1042,EHR10087,appendicitis,fever
+P1048,EHR10088,appendicitis,fever
+P1019,EHR10089,appendicitis,fever
+P1019,EHR10089,appendicitis,pain during urination
+P1070,EHR10090,appendicitis,fever
+P1030,EHR10091,appendicitis,fever
+P1028,EHR10092,appendicitis,fever
+P1046,EHR10093,appendicitis,fever
+P1046,EHR10093,appendicitis,pain during urination
+P1027,EHR10094,appendicitis,pain during urination
+P1027,EHR10094,appendicitis,fever
+P1067,EHR10095,appendicitis,fever
+P1067,EHR10095,appendicitis,pain during urination
+P1029,EHR10096,appendicitis,fever
+P1029,EHR10096,appendicitis,pain during urination
+P1021,EHR10097,appendicitis,fever
+P1021,EHR10097,appendicitis,pain during urination
+P1027,EHR10098,appendicitis,fever
+P1056,EHR10099,appendicitis,fever
+P1056,EHR10099,appendicitis,pain during urination
+P1049,EHR10100,appendicitis,fever
+P1017,EHR10101,appendicitis,pain during urination
+P1017,EHR10101,appendicitis,fever
+P1041,EHR10102,appendicitis,fever
+P1041,EHR10102,appendicitis,pain during urination
+P1057,EHR10103,appendicitis,fever
+P1057,EHR10103,appendicitis,pain during urination
+P1011,EHR10104,appendicitis,fever
+P1015,EHR10105,appendicitis,pain during urination
+P1015,EHR10105,appendicitis,fever
+P1040,EHR10106,appendicitis,fever
+P1051,EHR10107,appendicitis,fever
+P1051,EHR10107,appendicitis,pain during urination
+P1012,EHR10108,appendicitis,pain during urination
+P1024,EHR10109,appendicitis,pain during urination
+P1024,EHR10109,appendicitis,fever
+P1025,EHR10110,appendicitis,fever
+P1025,EHR10110,appendicitis,pain during urination
+P1059,EHR10111,appendicitis,fever
+P1046,EHR10112,appendicitis,fever
+P1046,EHR10112,appendicitis,pain during urination
+P1007,EHR10113,gout,fever
+P1001,EHR10114,gout,swelling
+P1031,EHR10115,gout,swelling
+P1031,EHR10115,gout,fever
+P1079,EHR10116,gout,swelling
+P1079,EHR10116,gout,fever
+P1048,EHR10117,gout,swelling
+P1048,EHR10117,gout,fever
+P1066,EHR10118,gout,swelling
+P1066,EHR10118,gout,fever
+P1050,EHR10119,gout,swelling
+P1012,EHR10120,gout,swelling
+P1063,EHR10121,gout,swelling
+P1016,EHR10122,gout,swelling
+P1016,EHR10122,gout,fever
+P1053,EHR10123,gout,swelling
+P1045,EHR10124,gout,swelling
+P1045,EHR10124,gout,fever
+P1006,EHR10125,gout,swelling
+P1073,EHR10126,gout,swelling
+P1073,EHR10126,gout,fever
+P1013,EHR10127,gout,swelling
+P1044,EHR10128,gout,swelling
+P1038,EHR10129,gout,swelling
+P1002,EHR10130,gout,swelling
+P1002,EHR10130,gout,fever
+P1079,EHR10131,gout,swelling
+P1079,EHR10131,gout,fever
+P1003,EHR10132,gout,fever
+P1028,EHR10133,gout,swelling
+P1028,EHR10133,gout,fever
+P1061,EHR10134,gout,swelling
+P1061,EHR10134,gout,fever
+P1042,EHR10135,gout,swelling
+P1052,EHR10136,gout,swelling
+P1066,EHR10137,gout,swelling
+P1001,EHR10138,gout,swelling
+P1000,EHR10139,gout,swelling
+P1000,EHR10139,gout,fever
+P1013,EHR10140,gout,swelling
+P1001,EHR10141,gout,swelling
+P1001,EHR10141,gout,fever
+P1056,EHR10142,gout,swelling
+P1056,EHR10142,gout,fever
+P1042,EHR10143,gout,swelling
+P1008,EHR10144,gout,swelling
+P1008,EHR10144,gout,fever
+P1024,EHR10145,gout,swelling
+P1024,EHR10145,gout,fever
+P1023,EHR10146,gout,swelling
+P1050,EHR10147,gout,swelling
+P1050,EHR10147,gout,fever
+P1003,EHR10148,gout,swelling
+P1003,EHR10148,gout,fever
+P1068,EHR10149,gout,swelling
+P1068,EHR10149,gout,fever
+P1002,EHR10150,gout,swelling
+P1022,EHR10151,gout,swelling
+P1077,EHR10152,gout,swelling
+P1035,EHR10153,gout,swelling
+P1063,EHR10154,gout,fever
+P1036,EHR10155,gout,swelling
+P1007,EHR10156,gout,swelling
+P1007,EHR10156,gout,fever
+P1026,EHR10157,gout,fever
+P1074,EHR10158,gout,swelling
+P1019,EHR10159,gout,swelling
+P1019,EHR10159,gout,fever
+P1058,EHR10160,gout,swelling
+P1058,EHR10160,gout,fever
+P1015,EHR10161,gout,swelling
+P1006,EHR10162,gout,swelling
+P1006,EHR10162,gout,fever
+P1053,EHR10163,gout,fever
+P1071,EHR10164,gout,swelling
+P1022,EHR10165,gout,swelling
+P1068,EHR10166,gout,swelling
+P1068,EHR10166,gout,fever
+P1011,EHR10167,heart attack,depression
+P1030,EHR10168,heart attack,depression
+P1030,EHR10168,heart attack,shortness of breath
+P1036,EHR10169,heart attack,shortness of breath
+P1036,EHR10169,heart attack,depression
+P1078,EHR10170,heart attack,shortness of breath
+P1039,EHR10171,heart attack,shortness of breath
+P1037,EHR10172,heart attack,shortness of breath
+P1014,EHR10173,heart attack,depression
+P1014,EHR10173,heart attack,shortness of breath
+P1034,EHR10174,heart attack,shortness of breath
+P1034,EHR10174,heart attack,depression
+P1051,EHR10175,heart attack,shortness of breath
+P1051,EHR10175,heart attack,depression
+P1054,EHR10176,heart attack,depression
+P1033,EHR10177,heart attack,shortness of breath
+P1033,EHR10177,heart attack,depression
+P1040,EHR10178,heart attack,shortness of breath
+P1040,EHR10178,heart attack,depression
+P1008,EHR10179,heart attack,depression
+P1008,EHR10179,heart attack,shortness of breath
+P1067,EHR10180,heart attack,shortness of breath
+P1067,EHR10180,heart attack,depression
+P1067,EHR10181,heart attack,depression
+P1067,EHR10181,heart attack,shortness of breath
+P1020,EHR10182,heart attack,shortness of breath
+P1020,EHR10182,heart attack,depression
+P1008,EHR10183,heart attack,shortness of breath
+P1057,EHR10184,heart attack,shortness of breath
+P1057,EHR10184,heart attack,depression
+P1005,EHR10185,heart attack,shortness of breath
+P1045,EHR10186,heart attack,depression
+P1045,EHR10186,heart attack,shortness of breath
+P1043,EHR10187,heart attack,shortness of breath
+P1043,EHR10187,heart attack,depression
+P1068,EHR10188,heart attack,shortness of breath
+P1068,EHR10188,heart attack,depression
+P1061,EHR10189,heart attack,shortness of breath
+P1061,EHR10189,heart attack,depression
+P1018,EHR10190,heart attack,shortness of breath
+P1076,EHR10191,heart attack,shortness of breath
+P1027,EHR10192,heart attack,shortness of breath
+P1038,EHR10193,heart attack,depression
+P1038,EHR10193,heart attack,shortness of breath
+P1031,EHR10194,heart attack,depression
+P1031,EHR10194,heart attack,shortness of breath
+P1037,EHR10195,heart attack,shortness of breath
+P1038,EHR10196,heart attack,depression
+P1038,EHR10196,heart attack,shortness of breath
+P1018,EHR10197,heart attack,shortness of breath
+P1018,EHR10197,heart attack,depression
+P1056,EHR10198,heart attack,shortness of breath
+P1038,EHR10199,heart attack,shortness of breath
+P1038,EHR10199,heart attack,depression
+P1004,EHR10200,heart attack,shortness of breath
+P1032,EHR10201,heart attack,shortness of breath
+P1032,EHR10201,heart attack,depression
+P1070,EHR10202,heart attack,depression
+P1034,EHR10203,heart attack,shortness of breath
+P1048,EHR10204,heart attack,shortness of breath
+P1044,EHR10205,heart attack,depression
+P1001,EHR10206,heart attack,depression
+P1001,EHR10206,heart attack,shortness of breath
+P1047,EHR10207,heart attack,shortness of breath
+P1041,EHR10208,heart attack,shortness of breath
+P1058,EHR10209,heart attack,shortness of breath
+P1058,EHR10209,heart attack,depression
+P1067,EHR10210,heart attack,shortness of breath
+P1067,EHR10210,heart attack,depression
+P1075,EHR10211,heart attack,shortness of breath
+P1075,EHR10211,heart attack,depression
+P1058,EHR10212,heart attack,depression
+P1065,EHR10213,heart attack,shortness of breath
+P1065,EHR10213,heart attack,depression
+P1033,EHR10214,heart attack,shortness of breath
+P1033,EHR10214,heart attack,depression
+P1022,EHR10215,heart attack,shortness of breath
+P1008,EHR10216,heart attack,depression
+P1015,EHR10217,heart attack,shortness of breath
+P1015,EHR10217,heart attack,depression
+P1014,EHR10218,heart attack,shortness of breath
+P1014,EHR10218,heart attack,depression
+P1074,EHR10219,heart attack,shortness of breath
+P1074,EHR10219,heart attack,depression
+P1058,EHR10220,major depression,seizures
+P1058,EHR10220,major depression,depression
+P1058,EHR10220,major depression,pain during urination
+P1058,EHR10220,major depression,headache
+P1041,EHR10221,major depression,depression
+P1041,EHR10221,major depression,headache
+P1041,EHR10221,major depression,seizures
+P1048,EHR10222,major depression,depression
+P1048,EHR10222,major depression,seizures
+P1048,EHR10222,major depression,headache
+P1048,EHR10222,major depression,pain during urination
+P1039,EHR10223,major depression,depression
+P1039,EHR10223,major depression,seizures
+P1044,EHR10224,major depression,headache
+P1044,EHR10224,major depression,depression
+P1069,EHR10225,major depression,depression
+P1024,EHR10226,major depression,depression
+P1024,EHR10226,major depression,seizures
+P1024,EHR10226,major depression,pain during urination
+P1007,EHR10227,major depression,depression
+P1007,EHR10227,major depression,pain during urination
+P1007,EHR10227,major depression,seizures
+P1007,EHR10227,major depression,headache
+P1018,EHR10228,major depression,depression
+P1018,EHR10228,major depression,pain during urination
+P1018,EHR10228,major depression,seizures
+P1030,EHR10229,major depression,seizures
+P1030,EHR10229,major depression,depression
+P1030,EHR10229,major depression,pain during urination
+P1030,EHR10229,major depression,headache
+P1022,EHR10230,major depression,depression
+P1022,EHR10230,major depression,seizures
+P1022,EHR10230,major depression,pain during urination
+P1022,EHR10230,major depression,headache
+P1025,EHR10231,major depression,depression
+P1025,EHR10231,major depression,headache
+P1025,EHR10231,major depression,seizures
+P1024,EHR10232,major depression,depression
+P1024,EHR10232,major depression,seizures
+P1024,EHR10232,major depression,headache
+P1070,EHR10233,major depression,depression
+P1070,EHR10233,major depression,pain during urination
+P1070,EHR10233,major depression,seizures
+P1070,EHR10233,major depression,headache
+P1054,EHR10234,major depression,depression
+P1054,EHR10234,major depression,seizures
+P1032,EHR10235,major depression,seizures
+P1032,EHR10235,major depression,depression
+P1042,EHR10236,major depression,depression
+P1042,EHR10236,major depression,headache
+P1042,EHR10236,major depression,seizures
+P1063,EHR10237,major depression,depression
+P1063,EHR10237,major depression,seizures
+P1063,EHR10237,major depression,headache
+P1033,EHR10238,major depression,depression
+P1033,EHR10238,major depression,headache
+P1033,EHR10238,major depression,seizures
+P1033,EHR10238,major depression,pain during urination
+P1051,EHR10239,major depression,depression
+P1051,EHR10239,major depression,seizures
+P1051,EHR10239,major depression,pain during urination
+P1021,EHR10240,major depression,depression
+P1021,EHR10240,major depression,headache
+P1021,EHR10240,major depression,pain during urination
+P1068,EHR10241,major depression,depression
+P1068,EHR10241,major depression,pain during urination
+P1068,EHR10241,major depression,headache
+P1019,EHR10242,major depression,depression
+P1019,EHR10242,major depression,seizures
+P1019,EHR10242,major depression,headache
+P1019,EHR10242,major depression,pain during urination
+P1019,EHR10243,major depression,depression
+P1019,EHR10243,major depression,seizures
+P1019,EHR10243,major depression,headache
+P1019,EHR10243,major depression,pain during urination
+P1069,EHR10244,major depression,depression
+P1069,EHR10244,major depression,headache
+P1069,EHR10244,major depression,seizures
+P1031,EHR10245,major depression,depression
+P1031,EHR10245,major depression,seizures
+P1013,EHR10246,major depression,depression
+P1073,EHR10247,major depression,depression
+P1073,EHR10247,major depression,seizures
+P1073,EHR10247,major depression,pain during urination
+P1066,EHR10248,major depression,depression
+P1066,EHR10248,major depression,seizures
+P1066,EHR10248,major depression,pain during urination
+P1051,EHR10249,major depression,depression
+P1051,EHR10249,major depression,seizures
+P1051,EHR10249,major depression,headache
+P1037,EHR10250,major depression,depression
+P1037,EHR10250,major depression,seizures
+P1037,EHR10250,major depression,pain during urination
+P1031,EHR10251,major depression,depression
+P1031,EHR10251,major depression,seizures
+P1031,EHR10251,major depression,pain during urination
+P1030,EHR10252,major depression,seizures
+P1030,EHR10252,major depression,pain during urination
+P1030,EHR10252,major depression,depression
+P1030,EHR10252,major depression,headache
+P1000,EHR10253,major depression,depression
+P1000,EHR10253,major depression,seizures
+P1000,EHR10253,major depression,pain during urination
+P1025,EHR10254,major depression,depression
+P1025,EHR10254,major depression,pain during urination
+P1025,EHR10254,major depression,seizures
+P1040,EHR10255,major depression,depression
+P1040,EHR10255,major depression,seizures
+P1055,EHR10256,major depression,depression
+P1055,EHR10256,major depression,pain during urination
+P1004,EHR10257,major depression,depression
+P1004,EHR10257,major depression,seizures
+P1029,EHR10258,major depression,depression
+P1029,EHR10258,major depression,seizures
+P1074,EHR10259,major depression,depression
+P1074,EHR10259,major depression,seizures
+P1074,EHR10259,major depression,headache
+P1074,EHR10259,major depression,pain during urination
+P1077,EHR10260,major depression,depression
+P1077,EHR10260,major depression,pain during urination
+P1077,EHR10260,major depression,seizures
+P1077,EHR10260,major depression,headache
+P1043,EHR10261,major depression,depression
+P1043,EHR10261,major depression,pain during urination
+P1028,EHR10262,major depression,depression
+P1076,EHR10263,major depression,depression
+P1052,EHR10264,major depression,headache
+P1052,EHR10264,major depression,depression
+P1050,EHR10265,major depression,depression
+P1050,EHR10265,major depression,seizures
+P1050,EHR10265,major depression,pain during urination
+P1050,EHR10265,major depression,headache
+P1027,EHR10266,major depression,depression
+P1027,EHR10266,major depression,seizures
+P1037,EHR10267,major depression,depression
+P1037,EHR10267,major depression,seizures
+P1037,EHR10267,major depression,headache
+P1037,EHR10267,major depression,pain during urination
+P1017,EHR10268,major depression,depression
+P1017,EHR10268,major depression,headache
+P1017,EHR10268,major depression,seizures
+P1017,EHR10268,major depression,pain during urination
+P1049,EHR10269,meningitis,fever
+P1049,EHR10269,meningitis,headache
+P1015,EHR10270,meningitis,headache
+P1015,EHR10270,meningitis,fever
+P1015,EHR10270,meningitis,stiffness
+P1047,EHR10271,meningitis,stiffness
+P1047,EHR10271,meningitis,headache
+P1031,EHR10272,meningitis,stiffness
+P1027,EHR10273,meningitis,fever
+P1027,EHR10273,meningitis,stiffness
+P1027,EHR10273,meningitis,headache
+P1027,EHR10273,meningitis,sensitivity to light
+P1034,EHR10274,meningitis,headache
+P1034,EHR10274,meningitis,sensitivity to light
+P1034,EHR10274,meningitis,stiffness
+P1053,EHR10275,meningitis,sensitivity to light
+P1070,EHR10276,meningitis,fever
+P1070,EHR10276,meningitis,coughing
+P1070,EHR10276,meningitis,headache
+P1070,EHR10276,meningitis,stiffness
+P1069,EHR10277,meningitis,fever
+P1069,EHR10277,meningitis,stiffness
+P1069,EHR10277,meningitis,headache
+P1069,EHR10277,meningitis,sensitivity to light
+P1029,EHR10278,meningitis,stiffness
+P1029,EHR10278,meningitis,sensitivity to light
+P1029,EHR10278,meningitis,headache
+P1074,EHR10279,meningitis,headache
+P1074,EHR10279,meningitis,sensitivity to light
+P1074,EHR10279,meningitis,stiffness
+P1074,EHR10279,meningitis,fever
+P1054,EHR10280,meningitis,fever
+P1054,EHR10280,meningitis,stiffness
+P1054,EHR10280,meningitis,headache
+P1054,EHR10280,meningitis,sensitivity to light
+P1020,EHR10281,meningitis,headache
+P1020,EHR10281,meningitis,fever
+P1020,EHR10281,meningitis,stiffness
+P1020,EHR10281,meningitis,sensitivity to light
+P1026,EHR10282,meningitis,headache
+P1007,EHR10283,meningitis,headache
+P1007,EHR10283,meningitis,fever
+P1007,EHR10283,meningitis,sensitivity to light
+P1000,EHR10284,meningitis,headache
+P1000,EHR10284,meningitis,stiffness
+P1000,EHR10284,meningitis,fever
+P1021,EHR10285,meningitis,headache
+P1021,EHR10285,meningitis,stiffness
+P1021,EHR10285,meningitis,fever
+P1021,EHR10285,meningitis,coughing
+P1029,EHR10286,meningitis,headache
+P1029,EHR10286,meningitis,fever
+P1029,EHR10286,meningitis,sensitivity to light
+P1029,EHR10286,meningitis,stiffness
+P1036,EHR10287,meningitis,fever
+P1036,EHR10287,meningitis,headache
+P1049,EHR10288,meningitis,headache
+P1049,EHR10288,meningitis,sensitivity to light
+P1049,EHR10288,meningitis,stiffness
+P1049,EHR10288,meningitis,fever
+P1001,EHR10289,meningitis,fever
+P1072,EHR10290,meningitis,stiffness
+P1072,EHR10290,meningitis,sensitivity to light
+P1062,EHR10291,meningitis,fever
+P1062,EHR10291,meningitis,coughing
+P1023,EHR10292,meningitis,fever
+P1023,EHR10292,meningitis,stiffness
+P1023,EHR10292,meningitis,headache
+P1005,EHR10293,meningitis,stiffness
+P1005,EHR10293,meningitis,sensitivity to light
+P1005,EHR10293,meningitis,fever
+P1005,EHR10293,meningitis,headache
+P1064,EHR10294,meningitis,fever
+P1064,EHR10294,meningitis,sensitivity to light
+P1077,EHR10295,meningitis,headache
+P1077,EHR10295,meningitis,stiffness
+P1073,EHR10296,meningitis,fever
+P1073,EHR10296,meningitis,sensitivity to light
+P1073,EHR10296,meningitis,headache
+P1073,EHR10296,meningitis,stiffness
+P1051,EHR10297,meningitis,headache
+P1051,EHR10297,meningitis,stiffness
+P1039,EHR10298,meningitis,stiffness
+P1039,EHR10298,meningitis,sensitivity to light
+P1039,EHR10298,meningitis,fever
+P1046,EHR10299,meningitis,fever
+P1046,EHR10299,meningitis,stiffness
+P1046,EHR10299,meningitis,headache
+P1059,EHR10300,meningitis,fever
+P1059,EHR10300,meningitis,stiffness
+P1059,EHR10300,meningitis,sensitivity to light
+P1039,EHR10301,meningitis,stiffness
+P1039,EHR10301,meningitis,headache
+P1039,EHR10301,meningitis,fever
+P1039,EHR10301,meningitis,sensitivity to light
+P1020,EHR10302,meningitis,coughing
+P1020,EHR10302,meningitis,fever
+P1020,EHR10302,meningitis,sensitivity to light
+P1001,EHR10303,meningitis,fever
+P1001,EHR10303,meningitis,sensitivity to light
+P1001,EHR10303,meningitis,headache
+P1032,EHR10304,meningitis,coughing
+P1060,EHR10305,meningitis,fever
+P1060,EHR10305,meningitis,coughing
+P1045,EHR10306,meningitis,headache
+P1041,EHR10307,meningitis,fever
+P1041,EHR10307,meningitis,headache
+P1059,EHR10308,meningitis,headache
+P1059,EHR10308,meningitis,stiffness
+P1059,EHR10308,meningitis,fever
+P1030,EHR10309,meningitis,stiffness
+P1052,EHR10310,meningitis,seizures
+P1052,EHR10310,meningitis,headache
+P1052,EHR10310,meningitis,stiffness
+P1062,EHR10311,meningitis,sensitivity to light
+P1062,EHR10311,meningitis,headache
+P1062,EHR10311,meningitis,stiffness
+P1062,EHR10311,meningitis,fever
+P1035,EHR10312,meningitis,headache
+P1035,EHR10312,meningitis,fever
+P1078,EHR10313,meningitis,coughing
+P1078,EHR10313,meningitis,headache
+P1078,EHR10313,meningitis,fever
+P1078,EHR10313,meningitis,seizures
+P1019,EHR10314,meningitis,headache
+P1019,EHR10314,meningitis,fever
+P1054,EHR10315,meningitis,headache
+P1054,EHR10315,meningitis,fever
+P1066,EHR10316,meningitis,coughing
+P1066,EHR10316,meningitis,stiffness
+P1066,EHR10316,meningitis,headache
+P1025,EHR10317,meningitis,fever
+P1025,EHR10317,meningitis,headache
+P1025,EHR10317,meningitis,seizures
+P1003,EHR10318,meningitis,fever
+P1003,EHR10318,meningitis,headache
+P1003,EHR10318,meningitis,sensitivity to light
+P1040,EHR10319,meningitis,coughing
+P1040,EHR10319,meningitis,headache
+P1040,EHR10319,meningitis,sensitivity to light
+P1040,EHR10319,meningitis,fever
+P1068,EHR10320,meningitis,headache
+P1068,EHR10320,meningitis,sensitivity to light
+P1068,EHR10320,meningitis,fever
+P1025,EHR10321,meningitis,fever
+P1025,EHR10321,meningitis,headache
+P1025,EHR10321,meningitis,stiffness
+P1025,EHR10321,meningitis,sensitivity to light
+P1010,EHR10322,meningitis,fever
+P1010,EHR10322,meningitis,headache
+P1010,EHR10322,meningitis,stiffness
+P1010,EHR10322,meningitis,coughing
+P1079,EHR10323,meningitis,sensitivity to light
+P1079,EHR10323,meningitis,fever
+P1079,EHR10323,meningitis,headache
+P1079,EHR10323,meningitis,stiffness
+P1077,EHR10324,meningitis,fever
+P1077,EHR10324,meningitis,headache
+P1050,EHR10325,meningitis,headache
+P1050,EHR10325,meningitis,sensitivity to light
+P1050,EHR10325,meningitis,stiffness
+P1028,EHR10326,meningitis,headache
+P1028,EHR10326,meningitis,sensitivity to light
+P1028,EHR10326,meningitis,stiffness
+P1028,EHR10326,meningitis,fever
+P1002,EHR10327,meningitis,fever
+P1002,EHR10327,meningitis,headache
+P1002,EHR10327,meningitis,sensitivity to light
+P1009,EHR10328,meningitis,headache
+P1009,EHR10328,meningitis,fever
+P1009,EHR10328,meningitis,sensitivity to light
+P1009,EHR10328,meningitis,seizures
+P1049,EHR10329,migraine,sensitivity to light
+P1010,EHR10330,migraine,sensitivity to light
+P1010,EHR10330,migraine,headache
+P1010,EHR10330,migraine,depression
+P1018,EHR10331,migraine,stiffness
+P1018,EHR10331,migraine,headache
+P1018,EHR10331,migraine,sensitivity to light
+P1018,EHR10331,migraine,depression
+P1023,EHR10332,migraine,sensitivity to light
+P1023,EHR10332,migraine,headache
+P1023,EHR10332,migraine,stiffness
+P1023,EHR10332,migraine,depression
+P1003,EHR10333,migraine,sensitivity to light
+P1003,EHR10333,migraine,headache
+P1003,EHR10333,migraine,depression
+P1037,EHR10334,migraine,sensitivity to light
+P1037,EHR10334,migraine,headache
+P1037,EHR10334,migraine,seizures
+P1055,EHR10335,migraine,sensitivity to light
+P1055,EHR10335,migraine,depression
+P1055,EHR10335,migraine,headache
+P1055,EHR10335,migraine,stiffness
+P1047,EHR10336,migraine,headache
+P1047,EHR10336,migraine,sensitivity to light
+P1047,EHR10336,migraine,stiffness
+P1079,EHR10337,migraine,headache
+P1079,EHR10337,migraine,sensitivity to light
+P1079,EHR10337,migraine,seizures
+P1079,EHR10337,migraine,depression
+P1069,EHR10338,migraine,headache
+P1069,EHR10338,migraine,sensitivity to light
+P1069,EHR10338,migraine,stiffness
+P1069,EHR10338,migraine,depression
+P1024,EHR10339,migraine,headache
+P1024,EHR10339,migraine,sensitivity to light
+P1024,EHR10339,migraine,depression
+P1024,EHR10339,migraine,seizures
+P1028,EHR10340,migraine,headache
+P1028,EHR10340,migraine,sensitivity to light
+P1028,EHR10340,migraine,stiffness
+P1066,EHR10341,migraine,sensitivity to light
+P1066,EHR10341,migraine,headache
+P1066,EHR10341,migraine,depression
+P1066,EHR10341,migraine,stiffness
+P1077,EHR10342,migraine,headache
+P1077,EHR10342,migraine,sensitivity to light
+P1059,EHR10343,migraine,sensitivity to light
+P1059,EHR10343,migraine,headache
+P1053,EHR10344,migraine,sensitivity to light
+P1014,EHR10345,migraine,sensitivity to light
+P1014,EHR10345,migraine,headache
+P1014,EHR10345,migraine,depression
+P1023,EHR10346,migraine,headache
+P1023,EHR10346,migraine,sensitivity to light
+P1062,EHR10347,migraine,headache
+P1062,EHR10347,migraine,sensitivity to light
+P1062,EHR10347,migraine,seizures
+P1014,EHR10348,migraine,stiffness
+P1014,EHR10348,migraine,sensitivity to light
+P1026,EHR10349,migraine,headache
+P1026,EHR10349,migraine,stiffness
+P1026,EHR10349,migraine,seizures
+P1026,EHR10349,migraine,sensitivity to light
+P1053,EHR10350,migraine,headache
+P1058,EHR10351,migraine,headache
+P1058,EHR10351,migraine,sensitivity to light
+P1058,EHR10351,migraine,stiffness
+P1058,EHR10351,migraine,depression
+P1029,EHR10352,migraine,depression
+P1029,EHR10352,migraine,sensitivity to light
+P1029,EHR10352,migraine,headache
+P1003,EHR10353,migraine,headache
+P1022,EHR10354,migraine,headache
+P1022,EHR10354,migraine,sensitivity to light
+P1021,EHR10355,migraine,sensitivity to light
+P1021,EHR10355,migraine,headache
+P1021,EHR10355,migraine,seizures
+P1021,EHR10355,migraine,depression
+P1014,EHR10356,migraine,headache
+P1029,EHR10357,migraine,sensitivity to light
+P1029,EHR10357,migraine,depression
+P1029,EHR10357,migraine,headache
+P1029,EHR10357,migraine,seizures
+P1012,EHR10358,migraine,sensitivity to light
+P1012,EHR10358,migraine,depression
+P1012,EHR10358,migraine,headache
+P1012,EHR10358,migraine,seizures
+P1071,EHR10359,migraine,headache
+P1071,EHR10359,migraine,sensitivity to light
+P1071,EHR10359,migraine,depression
+P1020,EHR10360,migraine,headache
+P1020,EHR10360,migraine,sensitivity to light
+P1020,EHR10360,migraine,depression
+P1020,EHR10360,migraine,stiffness
+P1076,EHR10361,migraine,headache
+P1076,EHR10361,migraine,sensitivity to light
+P1076,EHR10361,migraine,depression
+P1076,EHR10361,migraine,stiffness
+P1072,EHR10362,migraine,sensitivity to light
+P1072,EHR10362,migraine,headache
+P1072,EHR10362,migraine,seizures
+P1072,EHR10362,migraine,depression
+P1013,EHR10363,migraine,headache
+P1013,EHR10363,migraine,seizures
+P1013,EHR10363,migraine,sensitivity to light
+P1013,EHR10363,migraine,depression
+P1073,EHR10364,migraine,sensitivity to light
+P1073,EHR10364,migraine,headache
+P1073,EHR10364,migraine,depression
+P1006,EHR10365,migraine,sensitivity to light
+P1036,EHR10366,migraine,sensitivity to light
+P1036,EHR10366,migraine,seizures
+P1036,EHR10366,migraine,depression
+P1076,EHR10367,migraine,sensitivity to light
+P1076,EHR10367,migraine,headache
+P1076,EHR10367,migraine,seizures
+P1076,EHR10367,migraine,depression
+P1017,EHR10368,migraine,headache
+P1041,EHR10369,migraine,headache
+P1041,EHR10369,migraine,sensitivity to light
+P1041,EHR10369,migraine,seizures
+P1041,EHR10369,migraine,depression
+P1020,EHR10370,migraine,stiffness
+P1050,EHR10371,migraine,headache
+P1050,EHR10371,migraine,stiffness
+P1050,EHR10371,migraine,sensitivity to light
+P1033,EHR10372,migraine,sensitivity to light
+P1033,EHR10372,migraine,headache
+P1057,EHR10373,migraine,headache
+P1040,EHR10374,migraine,stiffness
+P1040,EHR10374,migraine,headache
+P1040,EHR10374,migraine,sensitivity to light
+P1011,EHR10375,migraine,headache
+P1011,EHR10375,migraine,sensitivity to light
+P1011,EHR10375,migraine,depression
+P1026,EHR10376,migraine,headache
+P1026,EHR10376,migraine,sensitivity to light
+P1033,EHR10377,migraine,headache
+P1045,EHR10378,migraine,sensitivity to light
+P1045,EHR10378,migraine,headache
+P1045,EHR10378,migraine,seizures
+P1045,EHR10378,migraine,depression
+P1069,EHR10379,migraine,headache
+P1069,EHR10379,migraine,sensitivity to light
+P1069,EHR10379,migraine,seizures
+P1069,EHR10379,migraine,depression
+P1072,EHR10380,migraine,headache
+P1072,EHR10380,migraine,sensitivity to light
+P1072,EHR10380,migraine,stiffness
+P1009,EHR10381,migraine,headache
+P1009,EHR10381,migraine,sensitivity to light
+P1044,EHR10382,migraine,headache
+P1044,EHR10382,migraine,sensitivity to light
+P1044,EHR10382,migraine,depression
+P1044,EHR10382,migraine,seizures
+P1064,EHR10383,migraine,sensitivity to light
+P1064,EHR10383,migraine,headache
+P1015,EHR10384,migraine,sensitivity to light
+P1015,EHR10384,migraine,headache
+P1018,EHR10385,migraine,headache
+P1018,EHR10385,migraine,seizures
+P1046,EHR10386,migraine,headache
+P1046,EHR10386,migraine,sensitivity to light
+P1050,EHR10387,migraine,headache
+P1010,EHR10388,pneumonia,fever
+P1010,EHR10388,pneumonia,coughing
+P1015,EHR10389,pneumonia,fever
+P1015,EHR10389,pneumonia,coughing
+P1015,EHR10389,pneumonia,shortness of breath
+P1035,EHR10390,pneumonia,coughing
+P1035,EHR10390,pneumonia,shortness of breath
+P1035,EHR10390,pneumonia,fever
+P1009,EHR10391,pneumonia,fever
+P1009,EHR10391,pneumonia,coughing
+P1009,EHR10391,pneumonia,shortness of breath
+P1013,EHR10392,pneumonia,fever
+P1013,EHR10392,pneumonia,coughing
+P1013,EHR10392,pneumonia,shortness of breath
+P1067,EHR10393,pneumonia,coughing
+P1067,EHR10393,pneumonia,shortness of breath
+P1067,EHR10393,pneumonia,fever
+P1007,EHR10394,pneumonia,coughing
+P1007,EHR10394,pneumonia,shortness of breath
+P1061,EHR10395,pneumonia,coughing
+P1026,EHR10396,pneumonia,shortness of breath
+P1012,EHR10397,pneumonia,fever
+P1012,EHR10397,pneumonia,coughing
+P1074,EHR10398,pneumonia,coughing
+P1074,EHR10398,pneumonia,shortness of breath
+P1074,EHR10398,pneumonia,fever
+P1008,EHR10399,pneumonia,fever
+P1055,EHR10400,pneumonia,coughing
+P1055,EHR10400,pneumonia,fever
+P1055,EHR10400,pneumonia,shortness of breath
+P1039,EHR10401,pneumonia,coughing
+P1046,EHR10402,pneumonia,fever
+P1078,EHR10403,pneumonia,coughing
+P1009,EHR10404,pneumonia,fever
+P1009,EHR10404,pneumonia,coughing
+P1010,EHR10405,pneumonia,coughing
+P1010,EHR10405,pneumonia,fever
+P1079,EHR10406,pneumonia,fever
+P1079,EHR10406,pneumonia,shortness of breath
+P1079,EHR10406,pneumonia,coughing
+P1029,EHR10407,pneumonia,shortness of breath
+P1029,EHR10407,pneumonia,coughing
+P1029,EHR10407,pneumonia,fever
+P1027,EHR10408,pneumonia,shortness of breath
+P1037,EHR10409,pneumonia,coughing
+P1064,EHR10410,pneumonia,coughing
+P1067,EHR10411,pneumonia,coughing
+P1067,EHR10411,pneumonia,fever
+P1035,EHR10412,pneumonia,shortness of breath
+P1035,EHR10412,pneumonia,coughing
+P1023,EHR10413,pneumonia,fever
+P1023,EHR10413,pneumonia,coughing
+P1023,EHR10413,pneumonia,shortness of breath
+P1041,EHR10414,pneumonia,coughing
+P1041,EHR10414,pneumonia,shortness of breath
+P1041,EHR10414,pneumonia,fever
+P1017,EHR10415,pneumonia,coughing
+P1017,EHR10415,pneumonia,fever
+P1017,EHR10415,pneumonia,shortness of breath
+P1000,EHR10416,pneumonia,coughing
+P1016,EHR10417,pneumonia,shortness of breath
+P1016,EHR10417,pneumonia,fever
+P1056,EHR10418,pneumonia,coughing
+P1040,EHR10419,pneumonia,coughing
+P1040,EHR10419,pneumonia,fever
+P1040,EHR10419,pneumonia,shortness of breath
+P1078,EHR10420,pneumonia,shortness of breath
+P1048,EHR10421,pneumonia,fever
+P1055,EHR10422,pneumonia,fever
+P1055,EHR10422,pneumonia,shortness of breath
+P1055,EHR10422,pneumonia,coughing
+P1071,EHR10423,pneumonia,fever
+P1071,EHR10423,pneumonia,coughing
+P1006,EHR10424,pneumonia,coughing
+P1006,EHR10424,pneumonia,shortness of breath
+P1017,EHR10425,pneumonia,fever
+P1017,EHR10425,pneumonia,coughing
+P1044,EHR10426,pneumonia,fever
+P1030,EHR10427,pneumonia,fever
+P1030,EHR10427,pneumonia,shortness of breath
+P1045,EHR10428,stroke,headache
+P1075,EHR10429,stroke,headache
+P1075,EHR10429,stroke,seizures
+P1009,EHR10430,stroke,seizures
+P1009,EHR10430,stroke,headache
+P1000,EHR10431,stroke,seizures
+P1000,EHR10431,stroke,headache
+P1061,EHR10432,stroke,headache
+P1061,EHR10432,stroke,seizures
+P1079,EHR10433,stroke,headache
+P1049,EHR10434,stroke,headache
+P1038,EHR10435,stroke,seizures
+P1038,EHR10435,stroke,headache
+P1059,EHR10436,stroke,headache
+P1059,EHR10436,stroke,seizures
+P1022,EHR10437,stroke,headache
+P1022,EHR10437,stroke,seizures
+P1065,EHR10438,stroke,headache
+P1065,EHR10438,stroke,seizures
+P1069,EHR10439,stroke,seizures
+P1069,EHR10439,stroke,headache
+P1008,EHR10440,stroke,seizures
+P1008,EHR10440,stroke,headache
+P1064,EHR10441,stroke,seizures
+P1064,EHR10441,stroke,headache
+P1014,EHR10442,stroke,headache
+P1032,EHR10443,stroke,seizures
+P1032,EHR10443,stroke,headache
+P1005,EHR10444,stroke,seizures
+P1004,EHR10445,stroke,headache
+P1004,EHR10445,stroke,seizures
+P1078,EHR10446,stroke,seizures
+P1068,EHR10447,stroke,headache
+P1034,EHR10448,stroke,seizures
+P1034,EHR10448,stroke,headache
+P1057,EHR10449,stroke,headache
+P1053,EHR10450,stroke,seizures
+P1076,EHR10451,stroke,headache
+P1076,EHR10451,stroke,seizures
+P1057,EHR10452,stroke,seizures
+P1057,EHR10452,stroke,headache
+P1039,EHR10453,stroke,headache
+P1014,EHR10454,stroke,headache
+P1014,EHR10454,stroke,seizures
+P1023,EHR10455,stroke,headache
+P1011,EHR10456,stroke,headache
+P1011,EHR10456,stroke,seizures
+P1010,EHR10457,stroke,headache
+P1010,EHR10457,stroke,seizures
+P1044,EHR10458,stroke,headache
+P1044,EHR10458,stroke,seizures
+P1057,EHR10459,stroke,headache
+P1002,EHR10460,stroke,seizures
+P1002,EHR10460,stroke,headache
+P1015,EHR10461,stroke,headache
+P1054,EHR10462,stroke,headache
+P1000,EHR10463,stroke,headache
+P1037,EHR10464,stroke,headache
+P1064,EHR10465,stroke,seizures
+P1064,EHR10465,stroke,headache
+P1075,EHR10466,stroke,headache
+P1017,EHR10467,stroke,seizures
+P1017,EHR10467,stroke,headache
+P1000,EHR10468,stroke,seizures
+P1035,EHR10469,stroke,headache
+P1047,EHR10470,stroke,headache
+P1047,EHR10470,stroke,seizures
+P1046,EHR10471,stroke,headache
+P1016,EHR10472,stroke,seizures
+P1016,EHR10472,stroke,headache
+P1056,EHR10473,stroke,headache
+P1056,EHR10473,stroke,seizures
+P1075,EHR10474,stroke,seizures
+P1061,EHR10475,stroke,headache
+P1060,EHR10476,stroke,headache
+P1060,EHR10476,stroke,seizures
+P1021,EHR10477,stroke,seizures
+P1021,EHR10477,stroke,headache
+P1034,EHR10478,stroke,headache
+P1034,EHR10478,stroke,seizures
+P1013,EHR10479,stroke,seizures
+P1004,EHR10480,stroke,headache
+P1004,EHR10480,stroke,seizures
+P1070,EHR10481,stroke,headache
+P1055,EHR10482,urinary tract infection,fever
+P1042,EHR10483,urinary tract infection,pain during urination
+P1030,EHR10484,urinary tract infection,fever
+P1043,EHR10485,urinary tract infection,fever
+P1016,EHR10486,urinary tract infection,pain during urination
+P1016,EHR10486,urinary tract infection,fever
+P1043,EHR10487,urinary tract infection,pain during urination
+P1043,EHR10487,urinary tract infection,fever
+P1077,EHR10488,urinary tract infection,fever
+P1077,EHR10488,urinary tract infection,pain during urination
+P1018,EHR10489,urinary tract infection,pain during urination
+P1018,EHR10489,urinary tract infection,fever
+P1005,EHR10490,urinary tract infection,fever
+P1005,EHR10490,urinary tract infection,pain during urination
+P1004,EHR10491,urinary tract infection,fever
+P1004,EHR10491,urinary tract infection,pain during urination
+P1009,EHR10492,urinary tract infection,pain during urination
+P1009,EHR10492,urinary tract infection,fever
+P1042,EHR10493,urinary tract infection,fever
+P1042,EHR10493,urinary tract infection,pain during urination
+P1078,EHR10494,urinary tract infection,pain during urination
+P1078,EHR10494,urinary tract infection,fever
+P1019,EHR10495,urinary tract infection,pain during urination
+P1019,EHR10495,urinary tract infection,fever
+P1073,EHR10496,urinary tract infection,pain during urination
+P1017,EHR10497,urinary tract infection,pain during urination
+P1017,EHR10497,urinary tract infection,fever
+P1026,EHR10498,urinary tract infection,fever
+P1026,EHR10498,urinary tract infection,pain during urination
+P1006,EHR10499,urinary tract infection,pain during urination
+P1043,EHR10500,urinary tract infection,pain during urination
+P1043,EHR10500,urinary tract infection,fever
+P1045,EHR10501,urinary tract infection,fever
+P1047,EHR10502,urinary tract infection,fever
+P1040,EHR10503,urinary tract infection,pain during urination
+P1071,EHR10504,urinary tract infection,pain during urination
+P1036,EHR10505,urinary tract infection,fever
+P1036,EHR10505,urinary tract infection,pain during urination
+P1021,EHR10506,urinary tract infection,pain during urination
+P1006,EHR10507,urinary tract infection,pain during urination
+P1061,EHR10508,urinary tract infection,pain during urination
+P1061,EHR10508,urinary tract infection,fever
+P1055,EHR10509,urinary tract infection,fever
+P1055,EHR10509,urinary tract infection,pain during urination
+P1013,EHR10510,urinary tract infection,pain during urination
+P1013,EHR10510,urinary tract infection,fever
+P1076,EHR10511,urinary tract infection,fever
+P1076,EHR10511,urinary tract infection,pain during urination
+P1032,EHR10512,urinary tract infection,fever
+P1059,EHR10513,urinary tract infection,pain during urination
+P1059,EHR10513,urinary tract infection,fever
+P1063,EHR10514,urinary tract infection,pain during urination
+P1063,EHR10514,urinary tract infection,fever
+P1008,EHR10515,urinary tract infection,fever
+P1008,EHR10515,urinary tract infection,pain during urination
+P1052,EHR10516,urinary tract infection,fever
+P1019,EHR10517,urinary tract infection,fever
+P1020,EHR10518,urinary tract infection,pain during urination
+P1020,EHR10518,urinary tract infection,fever
+P1007,EHR10519,urinary tract infection,pain during urination
+P1012,EHR10520,urinary tract infection,pain during urination
+P1002,EHR10521,urinary tract infection,pain during urination
+P1005,EHR10522,urinary tract infection,pain during urination
+P1033,EHR10523,urinary tract infection,pain during urination
+P1027,EHR10524,urinary tract infection,pain during urination
+P1027,EHR10524,urinary tract infection,fever
+P1074,EHR10525,urinary tract infection,fever
+P1005,EHR10526,urinary tract infection,pain during urination
+P1005,EHR10526,urinary tract infection,fever
